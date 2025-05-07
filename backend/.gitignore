@@ -1,0 +1,7 @@
+#list if files and folder that does not need to be updated in git.
+
+node_modules
+.env
+.log
+
+public
